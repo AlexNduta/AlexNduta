@@ -1,6 +1,6 @@
 # Alex Kinyanjui Nduta 👋
 
-Systems Admin, IT Systems Support Engineer and Backend Developer (3+ years) focused on turning technical chaos into calm.
+Systems Admin, IT Systems Engineer and Backend Developer (3+ years) focused on turning technical chaos into calm.
 I'm a DevOps enthusiast and aspiring Tech Storyteller, passionate about proactive problem-solving, Linux, automation, and making complex IT simple.
 
 ---
